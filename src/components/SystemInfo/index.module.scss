@@ -1,0 +1,21 @@
+.processBlock {
+  display: flex;
+  .processPid {
+    flex: 1;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  .processName {
+    flex: 3;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  .processPath {
+    flex: 8;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+}
